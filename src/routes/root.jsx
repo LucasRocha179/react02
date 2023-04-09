@@ -20,7 +20,7 @@ export default function Root() {
             </section>
             <footer>
                 <MySection>
-                    <MyButton to="contato" alt="Contato" source={infoIcon} nome="Contato" />
+                    <MyButton to="contato" back="/" alt="Contato" source={infoIcon} nome="Contato" />
                     <MyButton to="login" alt="Login" source={checkIcon} nome="Login" />
                 </MySection>
             </footer>

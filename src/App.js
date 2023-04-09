@@ -8,6 +8,9 @@ import Root from "./routes/root";
 import ErrorPage from "./error-page";
 import Home from './routes/Home';
 import Login from './routes/Login';
+import Register from './routes/Register';
+import Customers from './routes/Customers';
+import About from './routes/About';
 
 function App() {
   const router = createBrowserRouter([
@@ -23,6 +26,18 @@ function App() {
     {
       path: "login",
       element: <Login />,
+    },
+    {
+      path: "contato",
+      element: <About />,
+    },
+    {
+      path: "register",
+      element: <Register />,
+    },
+    {
+      path: "customers",
+      element: <Customers />,
     },
   ])
 

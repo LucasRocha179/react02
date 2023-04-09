@@ -1,0 +1,19 @@
+header {
+    background-color: #2e6da4;
+    color: #fff;
+    padding: 20px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+header h2 {
+    font-size: 28px;
+    margin-top: 10px;
+}
+
+header span {
+    display: block;
+    margin-top: 20px;
+}

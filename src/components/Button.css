@@ -40,7 +40,7 @@
 }
 
 .mybutton:nth-child(4) img {
-    filter: invert(48%) sepia(28%) saturate(3743%) hue-rotate(339deg) brightness(96%) contrast(85%);
+    filter: invert(37%) sepia(7%) saturate(6366%) hue-rotate(177deg) brightness(92%) contrast(85%);
 }
 
 .mybutton:nth-child(5) img {
@@ -48,5 +48,5 @@
 }
 
 .mybutton:nth-child(6) img {
-    filter: invert(23%) sepia(40%) saturate(2879%) hue-rotate(223deg) brightness(96%) contrast(85%);
+    filter: invert(48%) sepia(28%) saturate(3743%) hue-rotate(339deg) brightness(96%) contrast(85%);
 }
